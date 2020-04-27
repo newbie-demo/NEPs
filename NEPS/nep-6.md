@@ -1,8 +1,8 @@
-# URI Scheme
+# NEP-6:URI Scheme
 
 | Item | Description |
 |:-|:-|
-| NEP | to be assigned |
+| NEP | 6 |
 | Title | URI Scheme |
 | Author | [Newbie D.](https://github.com/newbie-demo) , [Xuefeng Wei](mailto:xf@demo.com), [Alex Xr](mailto:alex.xr@demo.com)|
 | Discussions to | URL |
